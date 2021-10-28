@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.exe
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.deps.json
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.runtimeconfig.json
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.dll
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\ref\AtvG2.dll
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\bin\Debug\net5.0\AtvG2.pdb
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.dll
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\ref\AtvG2.dll
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.pdb
+C:\Projetos\AMS\1ano\AtividadeG2\AtvG2\obj\Debug\net5.0\AtvG2.genruntimeconfig.cache
